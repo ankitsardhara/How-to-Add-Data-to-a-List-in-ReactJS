@@ -5,7 +5,7 @@ Install Node Dependency
 ### `npm install`
 
 Run Project
-<<<<<<< HEAD
+
 ### `npm start`
 =======
-### `npm start`
+
